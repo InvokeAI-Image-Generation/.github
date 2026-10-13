@@ -25,7 +25,7 @@ Searches such as InvokeAI image generation, InvokeAI unified canvas, and InvokeA
 | **Remembers context** | Prompts, models, and presets help you return to the next task fast. |
 | **Fast feedback** | Open InvokeAI, pick a prompt, and render without switching tools. |
 
-![InvokeAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr23poKM3a0vlormNiTSpGyh0mC2E2Jw0VDSmMCckCVA&s)
+![InvokeAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZbKdAwQVS3-wvvBlqNKL2Jt8Mi5-i4UTTVoBq7I3y0PABP1o3_DwLdTq&s=10)
 
 ## Key Features of InvokeAI
 
